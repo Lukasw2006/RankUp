@@ -1,0 +1,6 @@
+name: Runkup
+version: ${project.version}
+main: de.lukas.runkup.Main
+
+commands:
+  RankUp:

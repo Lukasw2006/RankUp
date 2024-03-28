@@ -1,0 +1,20 @@
+
+#######################################
+#                                     #
+# Permissions :                       #
+# RankUp.Rank1 = Rank1(Meister)       #
+# RankUp.Rank2 = Rank2(Supreme)       #
+# RankUp.Rank3 = Rank3(Platin)        #
+# RankUp.Finish = Alles geschaft      #
+#                                     #
+#######################################
+
+lores:
+  Rank1:
+    - 'Dies ist ein Test 1'
+
+  Rank2:
+    - 'Dies ist ein Test 2'
+
+  Rank3:
+    - 'Dies ist ein Test 3'
